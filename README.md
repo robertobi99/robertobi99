@@ -183,25 +183,24 @@
 <tr>
 <td width="50%">
 
-![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobittar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobi99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=robertobittar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=robertobi99&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobittar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobi99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
 </tr>
 </table>
 
-<p><em>📝 Note: If stats don't load, it might be due to GitHub username case sensitivity or API limitations</em></p>
 
 </div>
 
@@ -219,10 +218,4 @@
 <div align="center">
 
 ### 💻 Thanks for visiting! Let's connect and build something amazing together! 🚀
-</div>
-
----
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/RobertoBittar">RobertoBittar</a> with ❤️</i>
 </div>
