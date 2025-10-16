@@ -1,42 +1,16 @@
+# <div align="center">👋 Hi, I'm Roberto Bittar</div>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roberto%20Bittar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <h3>🚀 Full Stack Developer | 💻 Web & Game Dev | 🤖 Automation & AI Enthusiast</h3>
+  <p>
+    <em>Building scalable solutions that bridge innovation and functionality</em>
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Solutions+Architect;AI+%26+Automation+Enthusiast;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertobittar-83b508306/)
 </div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/📍_Location-Lebanon-red?style=for-the-badge&labelColor=black"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/💼_Open_to-Opportunities-brightgreen?style=for-the-badge&labelColor=black"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-blue?style=for-the-badge&labelColor=black"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/robertobittar-83b508306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Roberto.work.80@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="tel:+96178833354" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone"/>
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
