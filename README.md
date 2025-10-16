@@ -201,6 +201,7 @@
 </tr>
 </table>
 
+<p><em>📝 Note: If stats don't load, it might be due to GitHub username case sensitivity or API limitations</em></p>
 
 </div>
 
@@ -218,4 +219,10 @@
 <div align="center">
 
 ### 💻 Thanks for visiting! Let's connect and build something amazing together! 🚀
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/robertobi99">robertobi99</a> with ❤️</i>
 </div>
