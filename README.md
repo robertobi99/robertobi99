@@ -10,9 +10,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertobittar-83b508306/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Roberto.work.80@gmail.com)
-[![Location](https://img.shields.io/badge/Lebanon-🇱🇧-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Lebanon)
-
 </div>
 
 ---
@@ -45,6 +42,9 @@
 ### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -63,7 +63,7 @@
 *Jul 2025 – Present*
 
 • 📊 **35% performance boost** through caching & SQL optimization  
-• 🏗️ Built unified company system (ticketing + asset management)  
+• 🏗️ Built unified company system  
 • ⚛️ Designed reusable React components  
 • 🔄 Managed complex GitHub workflows & merges  
 
@@ -183,23 +183,25 @@
 <tr>
 <td width="50%">
 
-![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoBittar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobittar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RobertoBittar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=robertobittar&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBittar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobittar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
 </tr>
 </table>
+
+<p><em>📝 Note: If stats don't load, it might be due to GitHub username case sensitivity or API limitations</em></p>
 
 </div>
 
@@ -217,9 +219,6 @@
 <div align="center">
 
 ### 💻 Thanks for visiting! Let's connect and build something amazing together! 🚀
-
-![Visitor Count](https://profile-counter.glitch.me/RobertoBittar/count.svg)
-
 </div>
 
 ---
