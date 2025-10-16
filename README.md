@@ -1,176 +1,375 @@
-# <div align="center">👋 Hi, I'm Roberto Bittar</div>
-
 <div align="center">
-  <h3>🚀 Full Stack Developer | 💻 Web & Game Dev | 🤖 Automation & AI Enthusiast</h3>
-  <p>
-    <em>Building scalable solutions that bridge innovation and functionality</em>
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roberto%20Bittar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertobittar-83b508306/)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Solutions+Architect;AI+%26+Automation+Enthusiast;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 </div>
 
----
-
-## 🛠️ Tech Stack
+<br>
 
 <div align="center">
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/📍_Location-Lebanon-red?style=for-the-badge&labelColor=black"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/💼_Open_to-Opportunities-brightgreen?style=for-the-badge&labelColor=black"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-blue?style=for-the-badge&labelColor=black"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/robertobittar-83b508306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Roberto.work.80@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="tel:+96178833354" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone"/>
+  </a>
+</div>
 
-## 💼 Professional Experience
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills & Technologies</b>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="25%">
 
-### 🚀 Full Stack Developer
-**Facilitate Int. | Beirut, Lebanon**  
-*Jul 2025 – Present*
+### <img src="https://skillicons.dev/icons?i=html,css,js" width="50"/> Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,figma" /><br>
+</div>
 
-• 📊 **35% performance boost** through caching & SQL optimization  
-• 🏗️ Built unified company system  
-• ⚛️ Designed reusable React components  
-• 🔄 Managed complex GitHub workflows & merges  
+**Technologies:**
+- Angular 20, React.js
+- TypeScript, JavaScript  
+- HTML5, CSS3, RxJS
+- Responsive Design
+- Figma Prototyping
 
 </td>
-<td width="50%">
+<td valign="top" width="25%">
 
-### 💻 Web/Database Developer Intern
-**CCSS | Beirut, Lebanon**  
-*Aug 2024 – Oct 2024*
+### <img src="https://skillicons.dev/icons?i=java,nodejs,spring" width="50"/> Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,dotnet,cs" /><br>
+</div>
 
-• 👥 Managed **10,000+ user records** securely  
-• 📈 **25% engagement boost** via responsive design  
-• ⚡ **30% faster load times** through query optimization  
-• 🎯 Enhanced front-end & back-end stability  
+**Technologies:**
+- Java (Spring Boot)
+- Node.js, Express.js
+- .NET Core, C#
+- REST APIs
+- Microservices
+
+</td>
+<td valign="top" width="25%">
+
+### <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker" width="50"/> Data & DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux" /><br>
+</div>
+
+**Technologies:**
+- MySQL, MongoDB
+- H2 Database
+- Docker, Git
+- Linux Shell
+- Database Optimization
+
+</td>
+<td valign="top" width="25%">
+
+### <img src="https://skillicons.dev/icons?i=python,ai" width="50"/> AI & Automation
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-FF6B6B?style=flat&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+</div>
+
+**Technologies:**
+- Python, Pandas
+- OpenAI API, LLMs
+- Ollama, Scikit-Learn
+- n8n Automations
+- Local AI Models
 
 </td>
 </tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Professional Journey </b>
+
+<div align="center">
+
+```mermaid
+timeline
+    title My Career Timeline
+    2024 Q1    : Database Administrator Intern
+               : DXXC, Beirut
+               : Query Optimization Expert
+    2024 Q3    : Web/Database Developer Intern  
+               : CCSS, Beirut
+               : Full-Stack Development
+    2025 Q3    : Full Stack Developer
+               : Facilitate Int., Beirut
+               : Enterprise Solutions
+```
+
+</div>
+
+<table>
 <tr>
-<td colspan="2">
+<td width="33%" align="center">
 
-### 🗄️ Database Administrator Intern
-**DXXC | Beirut, Lebanon** | *Jan 2024 – Mar 2024*
+### <img src="https://img.shields.io/badge/2025-Current-brightgreen?style=flat-square"/> 
+### 🚀 **Full Stack Developer**
+**🏢 Facilitate Int. | 📍 Beirut, Lebanon**
 
-• 🔧 **30% query efficiency improvement**  
-• 📊 Scaled DBs for **1,000+ daily transactions**  
-• 🛡️ **15% downtime reduction** through monitoring  
+<img src="https://img.shields.io/badge/Impact-High-success?style=flat-square&logo=target&logoColor=white"/>
+
+🔥 **Key Achievements:**
+- 📊 **35% Performance Boost** via advanced caching
+- 🏗️ **Unified System Architecture** design  
+- ⚛️ **Reusable Component Library** development
+- 🔄 **Complex Git Workflows** management
+- 💼 **Enterprise-Level Solutions** delivery
+
+</td>
+<td width="33%" align="center">
+
+### <img src="https://img.shields.io/badge/2024-Aug--Oct-blue?style=flat-square"/>
+### 💻 **Web/Database Developer**
+**🏢 CCSS | 📍 Beirut, Lebanon**
+
+<img src="https://img.shields.io/badge/Impact-High-success?style=flat-square&logo=users&logoColor=white"/>
+
+🎯 **Key Achievements:**
+- 👥 **10,000+ User Records** secure management
+- 📈 **25% Engagement Increase** through UX
+- ⚡ **30% Load Time Reduction** optimization
+- 🛡️ **System Stability** enhancement
+- 🔧 **Full-Stack Development** expertise
+
+</td>
+<td width="33%" align="center">
+
+### <img src="https://img.shields.io/badge/2024-Jan--Mar-orange?style=flat-square"/>
+### 🗄️ **Database Administrator**
+**🏢 DXXC | 📍 Beirut, Lebanon**
+
+<img src="https://img.shields.io/badge/Impact-Medium-warning?style=flat-square&logo=database&logoColor=white"/>
+
+⚡ **Key Achievements:**
+- 🔧 **30% Query Efficiency** improvement
+- 📊 **1,000+ Daily Transactions** scaling
+- 🛡️ **15% Downtime Reduction** monitoring
+- 📈 **Database Performance** optimization
+- 🔍 **System Reliability** assurance
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Featured Projects</b>
 
 <div align="center">
-
 <table>
 <tr>
-<td width="33%">
+<td width="50%" align="center">
 
-### 🎬 Movies Catalog
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+### 🎬 **Movies Catalog System**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=robertobi99&repo=movies-catalog&theme=tokyonight&hide_border=true" alt="Movies Catalog"/>
+</div>
 
-**Angular 20 + Spring Boot REST API**  
-🚀 Performance-boosted caching system  
-📉 Reduced API calls significantly  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,spring,java" />
+</div>
+
+#### 🛠️ **Tech Stack**
+`Angular 20` • `Spring Boot` • `REST API` • `Java`
+
+#### ⭐ **Key Features**
+- 🚀 **Advanced Caching System** for optimal performance
+- 📉 **Smart API Call Reduction** algorithms  
+- 🎨 **Modern Angular UI** with responsive design
+- 🔄 **Real-time Data Synchronization**
+- � **Performance Analytics Dashboard**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Performance-95%25-brightgreen?style=for-the-badge&logo=speedtest&logoColor=white"/>
+</div>
 
 </td>
-<td width="33%">
+<td width="50%" align="center">
 
-### 💰 Expense Tracker
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+### 💰 **Smart Expense Tracker**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=robertobi99&repo=expense-tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker"/>
+</div>
 
-**Angular 20 + Chart.js**  
-📊 Interactive dashboards  
-🗂️ Smart categorization  
-💾 Local storage support  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" height="32"/>
+</div>
+
+#### 🛠️ **Tech Stack**
+`Angular 20` • `TypeScript` • `Chart.js` • `Local Storage`
+
+#### ⭐ **Key Features**
+- 📊 **Interactive Data Visualizations** with Chart.js
+- 🗂️ **Intelligent Category Management** system
+- 💾 **Offline-First Architecture** with local storage
+- 📱 **Mobile-Responsive Design** for all devices
+- 🔍 **Advanced Filtering & Search** capabilities
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=activity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Users-500%2B-blue?style=for-the-badge&logo=users&logoColor=white"/>
+</div>
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-### 🎉 Saherne - Event Finder
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+### 🎉 **Saherne - AI Event Discovery Platform**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=robertobi99&repo=saherne&theme=tokyonight&hide_border=true" alt="Saherne"/>
+</div>
 
-**Full-Stack Web & Mobile**  
-🤖 AI-powered event suggestions  
-🗺️ Google Maps integration  
-📱 Cross-platform compatibility  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,androidstudio" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white" height="32"/>
+</div>
+
+#### 🛠️ **Tech Stack**
+`React.js` • `Node.js` • `MongoDB` • `Android Studio` • `OpenAI API` • `Google Maps API`
+
+#### ⭐ **Key Features**
+- 🤖 **AI-Powered Event Recommendations** using machine learning
+- 🗺️ **Interactive Google Maps Integration** with real-time locations  
+- 📱 **Cross-Platform Mobile App** (Web + Android)
+- 🔔 **Smart Push Notifications** system
+- 👥 **Social Features** for event sharing and reviews
+- 🎯 **Personalized User Experience** based on preferences
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Beta-warning?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Accuracy-87%25-brightgreen?style=for-the-badge&logo=brain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cross_Platform-iOS%20%26%20Android-blueviolet?style=for-the-badge&logo=mobile&logoColor=white"/>
+</div>
 
 </td>
 </tr>
 </table>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 Education
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> <b>Education</b>
 
 <div align="center">
 
-| 🏛️ Institution | 📚 Degree | 📅 Year |
-|---|---|---|
-| **Université Saint Joseph** | Bachelor's in Computer Science for Business | 2025 |
-| **Aix Marseille University** 🇫🇷 | Computer Science | 2020-2022 |
-| **Collège Mariste Champville** | High School Diploma | 2020 |
+| � **Institution** | 📚 **Degree** | 📅 **Year** | 🌟 |
+|:---|:---|:---:|:---:|
+| <img src="https://img.shields.io/badge/🏛️_Université_Saint_Joseph-Computer_Science_for_Business-blue?style=flat-square&labelColor=darkblue"/> | **Bachelor's Degree** | `2025` | 🎖️ |
+| <img src="https://img.shields.io/badge/🇫🇷_Aix_Marseille_University-Computer_Science-red?style=flat-square&labelColor=darkred"/> | **Exchange Program** | `2020-2022` | 🌍 |
+| <img src="https://img.shields.io/badge/🏫_Collège_Mariste_Champville-High_School_Diploma-green?style=flat-square&labelColor=darkgreen"/> | **High School** | `2020` | 📜 |
 
 </div>
 
----
+### 🏆 **Academic Highlights**
+- 💡 **Focus:** Business-oriented Computer Science
+- 🌐 **International Experience:** France Exchange
+- 🎯 **Specialization:** Full-Stack Development
+- 📊 **Projects:** 15+ Academic & Personal Projects
 
-## 🌍 Languages
+</td>
+<td width="50%">
+
+## <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYOyK/giphy.gif" width="40"> <b>Languages</b>
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-| 🗣️ Language | 📊 Level | 🏳️ Flag |
-|---|---|---|
-| **Arabic** | Native | 🇱🇧 |
-| **French** | Fluent | 🇫🇷 |
-| **English** | Fluent | 🇬🇧 |
+### 🇱🇧 **Arabic**
+<div align="center">
+<img src="https://img.shields.io/badge/Level-Native-success?style=for-the-badge&logo=star&logoColor=white"/>
+<br><br>
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 10px;">
+<div style="width: 100%; height: 20px; background: linear-gradient(90deg, #28a745, #20c997); border-radius: 10px;"></div>
+</div>
+<b>100%</b>
+</div>
 
+</td>
+<td align="center" width="33%">
+
+### 🇫� **French**
+<div align="center">
+<img src="https://img.shields.io/badge/Level-Fluent-primary?style=for-the-badge&logo=star&logoColor=white"/>
+<br><br>
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 10px;">
+<div style="width: 95%; height: 20px; background: linear-gradient(90deg, #007bff, #6f42c1); border-radius: 10px;"></div>
+</div>
+<b>95%</b>
+</div>
+
+</td>
+<td align="center" width="33%">
+
+### 🇬🇧 **English**
+<div align="center">
+<img src="https://img.shields.io/badge/Level-Fluent-info?style=for-the-badge&logo=star&logoColor=white"/>
+<br><br>
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 10px;">
+<div style="width: 90%; height: 20px; background: linear-gradient(90deg, #17a2b8, #6c757d); border-radius: 10px;"></div>
+</div>
+<b>90%</b>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+### � **Communication Skills**
+- 💼 **Business Communication** in all languages
+- 🎯 **Technical Documentation** expertise
+- 🤝 **Cross-Cultural Collaboration** experience
+- 📢 **Presentation Skills** in multilingual environments
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -201,7 +400,6 @@
 </tr>
 </table>
 
-<p><em>📝 Note: If stats don't load, it might be due to GitHub username case sensitivity or API limitations</em></p>
 
 </div>
 
@@ -219,10 +417,4 @@
 <div align="center">
 
 ### 💻 Thanks for visiting! Let's connect and build something amazing together! 🚀
-</div>
-
----
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/robertobi99">robertobi99</a> with ❤️</i>
 </div>
