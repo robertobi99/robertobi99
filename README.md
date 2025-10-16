@@ -372,49 +372,166 @@ timeline
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobi99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 📊 **Overall Statistics**
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobi99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Roberto's%20GitHub%20Journey&include_all_commits=true)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=robertobi99&theme=tokyonight&hide_border=true)
+### 🔥 **Contribution Streak**
+![GitHub Streak](https://streak-stats.demolab.com/?user=robertobi99&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobi99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 💻 **Most Used Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobi99&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Language%20Mastery%20Distribution)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📈 **Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robertobi99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF)
 
 </td>
 </tr>
 </table>
 
+### 🏆 **GitHub Achievements**
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=robertobi99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Currently
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Current Focus & Goals</b>
 
-- 🔭 **Building:** Scalable enterprise solutions at Facilitate Int.
-- 🌱 **Learning:** Advanced AI integrations & cloud architecture
-- 🎯 **Goal 2025:** Contribute to open-source projects & master DevOps
-- 💡 **Motto:** *"Code with purpose, build with passion"*
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
----
+### 🔭 **Currently Building**
+<img src="https://img.shields.io/badge/🚀_Enterprise_Solutions-Facilitate_Int.-success?style=for-the-badge&labelColor=darkgreen"/>
+
+- 🏗️ **Scalable System Architecture** design
+- ⚡ **Performance Optimization** initiatives  
+- 🔄 **CI/CD Pipeline** improvements
+- 📊 **Real-time Analytics** integration
+- 🛡️ **Security Enhancement** protocols
+
+</td>
+<td width="50%" align="center">
+
+### 🌱 **Currently Learning**
+<img src="https://img.shields.io/badge/🎯_Skill_Development-Continuous-blue?style=for-the-badge&labelColor=darkblue"/>
+
+- ☁️ **Cloud Architecture** (AWS, Azure)
+- 🤖 **Advanced AI Integrations** 
+- 🔧 **DevOps & Container Orchestration**
+- 📈 **Microservices Architecture**
+- 🔒 **Cybersecurity Best Practices**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🎯 **2025 Goals & Vision**
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🌟+Contribute+to+Open+Source+Projects;🚀+Master+Cloud+%26+DevOps+Technologies;🤝+Build+Impactful+Developer+Community;💡+Launch+Personal+Tech+Startup;🎯+Achieve+Senior+Developer+Role" alt="Goals Typing SVG" />
+</div>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Open_Source-25%25-orange?style=for-the-badge&logo=github&logoColor=white"/><br>
+<b>🌟 Contributions</b><br>
+<sub>Target: 50+ PRs</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DevOps-40%25-yellow?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>
+<b>☁️ Cloud Mastery</b><br>
+<sub>AWS + Azure Certs</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Leadership-60%25-blue?style=for-the-badge&logo=users&logoColor=white"/><br>
+<b>🤝 Team Leading</b><br>
+<sub>Mentor 10+ Devs</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Innovation-30%25-purple?style=for-the-badge&logo=lightbulb&logoColor=white"/><br>
+<b>💡 Startup Ideas</b><br>
+<sub>Launch MVP</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Growth-80%25-green?style=for-the-badge&logo=trending-up&logoColor=white"/><br>
+<b>📈 Career Growth</b><br>
+<sub>Senior Position</sub>
+</td>
+</tr>
+</table>
+
+### 💡 **Life Motto**
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Code+with+Purpose%2C+Build+with+Passion%22;%22Innovation+Through+Collaboration%22;%22Turning+Ideas+into+Digital+Reality%22" alt="Motto Typing SVG" />
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 💻 Thanks for visiting! Let's connect and build something amazing together! 🚀
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect & Collaborate!**
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+open+to+new+opportunities!;Ready+to+collaborate+on+innovative+projects!" alt="Connect Typing SVG" />
+</div>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/💼_Open_for-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀_Available_for-Freelance-blue?style=for-the-badge&logo=rocket&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Seeking-New_Opportunities-orange?style=for-the-badge&logo=target&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+### 🤝 **Open to Discuss:**
+`Full-Stack Development` • `AI Integration Projects` • `Startup Collaborations` • `Open Source Contributions` • `Mentoring Opportunities`
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=robertobi99&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/robertobi99?label=Followers&style=for-the-badge&color=blue&logo=github)
+![Stars](https://img.shields.io/github/stars/robertobi99?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star)
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
