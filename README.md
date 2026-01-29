@@ -101,17 +101,17 @@ Local storage support
 
 <div align="center">
 
-| Language | Level | Flag |
+| Language | Level |
 |---|---|---|
-| **Arabic** | Native | 🇱🇧 |
-| **French** | Fluent | 🇫🇷 |
-| **English** | Fluent | 🇬🇧 |
+| Arabic | Native |
+| **French** | Fluent |
+| **English** | Fluent |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -144,7 +144,6 @@ Local storage support
 
 ## Currently
 
-- Building: Scalable enterprise solutions at Facilitate Int.
 - Learning: Advanced AI integrations & cloud architecture
 - Goal 2026: Contribute to open-source projects & master DevOps
 
@@ -152,5 +151,5 @@ Local storage support
 
 <div align="center">
 
-### Thanks for visiting! Let's connect and build something amazing together! 🚀
+### Thanks for visiting, Let's connect and build something !
 </div>
