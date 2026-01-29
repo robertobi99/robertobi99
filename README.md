@@ -102,7 +102,7 @@ Local storage support
 <div align="center">
 
 | Language | Level |
-|---|---|---|
+|----------|-------|
 | Arabic | Native |
 | **French** | Fluent |
 | **English** | Fluent |
