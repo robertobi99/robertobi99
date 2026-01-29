@@ -1,15 +1,10 @@
-# <div align="center">👋 Hi, I'm Roberto Bittar</div>
+# <div align="center">Hi, I'm Roberto </div>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | 💻 Web & Game Dev | 🤖 Automation & AI Enthusiast</h3>
+  <h3> Full Stack Developer | Web & Game Dev | Automation & AI Enthusiast</h3>
   <p>
     <em>Building scalable solutions that bridge innovation and functionality</em>
   </p>
-</div>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-bittar-83b508306/)
 </div>
 
 ---
