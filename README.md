@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -47,52 +47,7 @@
 
 ---
 
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Full Stack Developer
-**Facilitate Int. | Beirut, Lebanon**  
-*Jul 2025 – Present*
-
-• 📊 **35% performance boost** through caching & SQL optimization  
-• 🏗️ Built unified company system  
-• ⚛️ Designed reusable React components  
-• 🔄 Managed complex GitHub workflows & merges  
-
-</td>
-<td width="50%">
-
-### 💻 Web/Database Developer Intern
-**CCSS | Beirut, Lebanon**  
-*Aug 2024 – Oct 2024*
-
-• 👥 Managed **10,000+ user records** securely  
-• 📈 **25% engagement boost** via responsive design  
-• ⚡ **30% faster load times** through query optimization  
-• 🎯 Enhanced front-end & back-end stability  
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🗄️ Database Administrator Intern
-**DXXC | Beirut, Lebanon** | *Jan 2024 – Mar 2024*
-
-• 🔧 **30% query efficiency improvement**  
-• 📊 Scaled DBs for **1,000+ daily transactions**  
-• 🛡️ **15% downtime reduction** through monitoring  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -100,39 +55,39 @@
 <tr>
 <td width="33%">
 
-### 🎬 Movies Catalog
+### Movies Catalog
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 **Angular 20 + Spring Boot REST API**  
-🚀 Performance-boosted caching system  
-📉 Reduced API calls significantly  
+Performance-boosted caching system  
+Reduced API calls significantly  
 
 </td>
 <td width="33%">
 
-### 💰 Expense Tracker
+### Expense Tracker
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 
 **Angular 20 + Chart.js**  
-📊 Interactive dashboards  
-🗂️ Smart categorization  
-💾 Local storage support  
+Interactive dashboards  
+Smart categorization  
+Local storage support  
 
 </td>
 <td width="33%">
 
-### 🎉 Saherne - Event Finder
+### Saherne - Event Finder
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**Full-Stack Web & Mobile**  
-🤖 AI-powered event suggestions  
-🗺️ Google Maps integration  
-📱 Cross-platform compatibility  
+**Full-Stack Web & Mobile**
+ AI-powered event suggestions  
+ Google Maps integration  
+ Cross-platform compatibility  
 
 </td>
 </tr>
@@ -142,25 +97,11 @@
 
 ---
 
-## 🎓 Education
+## Languages
 
 <div align="center">
 
-| 🏛️ Institution | 📚 Degree | 📅 Year |
-|---|---|---|
-| **Université Saint Joseph** | Bachelor's in Computer Science for Business | 2025 |
-| **Aix Marseille University** 🇫🇷 | Computer Science | 2020-2022 |
-| **Collège Mariste Champville** | High School Diploma | 2020 |
-
-</div>
-
----
-
-## 🌍 Languages
-
-<div align="center">
-
-| 🗣️ Language | 📊 Level | 🏳️ Flag |
+| Language | Level | Flag |
 |---|---|---|
 | **Arabic** | Native | 🇱🇧 |
 | **French** | Fluent | 🇫🇷 |
@@ -201,16 +142,15 @@
 
 ---
 
-## 🎯 Currently
+## Currently
 
-- 🔭 **Building:** Scalable enterprise solutions at Facilitate Int.
-- 🌱 **Learning:** Advanced AI integrations & cloud architecture
-- 🎯 **Goal 2025:** Contribute to open-source projects & master DevOps
-- 💡 **Motto:** *"Code with purpose, build with passion"*
+- Building: Scalable enterprise solutions at Facilitate Int.
+- Learning: Advanced AI integrations & cloud architecture
+- Goal 2026: Contribute to open-source projects & master DevOps
 
 ---
 
 <div align="center">
 
-### 💻 Thanks for visiting! Let's connect and build something amazing together! 🚀
+### Thanks for visiting! Let's connect and build something amazing together! 🚀
 </div>
