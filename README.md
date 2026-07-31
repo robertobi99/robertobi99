@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm Roberto </div>
+# <div align="center">Hi</div>
 
 <div align="center">
   <h3> Full Stack Developer | Web & Game Dev | Automation & AI Enthusiast</h3>
